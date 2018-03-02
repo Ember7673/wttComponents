@@ -2,29 +2,24 @@
 
 > A Vue.js project
 
-## Build Setup
+## 按钮
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+颜色 居中
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 提示
+
+颜色 居中
+
+## 日期格式化
+
+类似于朋友圈 微博日期格式化
+
+​	1分钟以前，显示刚刚
+
+​	1分钟-1小时之间，显示XX分钟前
+
+​	1小时-1个月，显示XX天前
+
+​	大于1个月，显示XX年XX月XX日
